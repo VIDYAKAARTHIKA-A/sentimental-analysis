@@ -85,12 +85,3 @@ sentimental-analysis/
 
 └── requirements.txt             # Python dependencies (optional)
 
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
----
-
-Feel free to contribute, open issues, or ask questions! 💬
-
----
