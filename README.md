@@ -91,14 +91,6 @@ This project is open-source and available under the MIT License.
 
 ---
 
-## 🙏 Acknowledgments
-
-- Twitter API for data access 🐦
-- Scikit-learn for machine learning utilities 🤖
-- Streamlit for creating the user-friendly app interface 💻
-
----
-
 Feel free to contribute, open issues, or ask questions! 💬
 
 ---
