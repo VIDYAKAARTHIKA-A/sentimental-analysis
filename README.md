@@ -71,13 +71,19 @@ For details on obtaining API credentials, visit [Twitter Developer Portal](https
 ## 🗂 Folder Structure
 sentimental-analysis/
 │
-├── app.py # Streamlit app for user interface and live analysis
-├── train_model.py # Script to train and save the Logistic Regression model
-├── sentiment_model.pkl # Saved Logistic Regression model (after training)
-├── vectorizer.pkl # Saved TF-IDF vectorizer
-├── README.md # This documentation
-├── .gitignore # Git ignore rules
-└── requirements.txt # Python dependencies (optional)
+├── app.py                       # Streamlit app for user interface and live analysis
+
+├── train_model.py               # Script to train and save the Logistic Regression model
+
+├── sentiment_model.pkl          # Saved Logistic Regression model (after training)
+
+├── vectorizer.pkl               # Saved TF-IDF vectorizer
+
+├── README.md                    # This documentation
+
+├── .gitignore                   # Git ignore rules
+
+└── requirements.txt             # Python dependencies (optional)
 
 ## 📜 License
 
